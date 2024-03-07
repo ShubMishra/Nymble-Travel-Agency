@@ -1,4 +1,6 @@
 #Nymble Travel Agency
+
+
 ##Overview
 This project represents a software system designed for travel agencies to manage their travel packages' itinerary and passengers. It provides functionalities to create and maintain travel packages, destinations, activities, and passengers. The system allows passengers to sign up for activities based on their preferences and handles different types of passengers with varying privileges.
 
